@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <h1>Onoka is Useless</h1>
   </div>
 </template>
